@@ -1,6 +1,0 @@
-<<<<<<< Updated upstream
-
-In the second line adding somemthing then i will do git stash pop which will again bring back my first line
-=======
-in the side branch(first_branch), i'm adding something that i will put this thing in the back(stash)
->>>>>>> Stashed changes
